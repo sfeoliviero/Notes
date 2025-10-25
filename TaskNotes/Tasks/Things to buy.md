@@ -25,4 +25,132 @@ tags:
 - [ ] Cerave Ultra-Light Facial Moisturizing Lotion
 - [ ] Resurfacing Retinol Serum
 - [ ] PM Facial Moisturizing Lotion 
+## Cucina
 
+- [ ] Zester
+- [ ] Macina spezie
+- [ ] Mandolina
+- [ ] Pentola a pressione
+- [ ] Friggitrice ad aria
+- [ ] Padella di ghisa
+- [ ] Roner
+- [ ] Planetaria
+
+## Spesa
+### Inverno/Autunno
+- [ ] Broccolo
+- [ ] Verza
+- [ ] Carote
+- [ ] 2 tipi di Cipolla
+- [ ] Zucca
+- [ ] Radicchio
+- [ ] Insalata
+- [ ] Rucola
+- [ ] Verdura a foglia congelata
+### Primavera/Estate
+- [ ] Pomodori
+- [ ] Peperoni
+- [ ] Zucchine
+- [ ] Carciofi
+- [ ] Melenzane
+- [ ] Cetrioli
+### Spezie
+- [ ] Pepe nero in grani
+- [ ] Aglio in polvere
+- [ ] Cipolla in polvere
+- [ ] Paprika Dolce
+- [ ] Paprika affumicata dolce
+- [ ] Cannella
+- [ ] Cumino
+- [ ] Coriandolo
+- [ ] Curcuma
+- [ ] Origano secco
+- [ ] Rosmarino Essiccato
+- [ ] Salvia Essiccata
+- [ ] Noce moscata
+- [ ] Semi di finocchio
+- [ ] Zenzero macinato
+- [ ] Chiodi di garofano
+- [ ] Cardamomo verde
+- [ ] Cardamomo Nero
+- [ ] Anice Stellato
+- [ ] Senape Gialla
+- [ ] Ibisco 
+- [ ] Zafferano
+### Amidi e Addensanti
+- [ ] Fecola di Patate
+- [ ] Amido di Mais
+- [ ] Xantana
+### Sali e Acidi
+- [ ] MSG
+- [ ] Acido citrico
+### Noodle e Tortillas
+- [ ] Udon
+- [ ] Soba
+- [ ] Shirataki
+- [ ] Tortillas 
+### Salse
+- [ ] Salsa di soia
+- [ ] Ketchup
+- [ ] Salsa barbecue
+- [ ] Senape
+- [ ] Colatura di alici
+- [ ] Salsa di pesce
+- [ ] Dashi in polvere
+### Istantanei, Panature e Farine
+- [ ] Polenta istantanea
+- [ ] Cous cous
+- [ ] Fiocchi di patate istantanei
+- [ ] Pangrattato
+- [ ] Farina 00
+- [ ] Farina Manitoba
+### Cereali
+- [ ] Riso Parboiled
+- [ ] Riso Basmati
+- [ ] Riso Arborio
+- [ ] Riso Venere
+- [ ] Farro
+- [ ] Quinoa
+- [ ] Patate
+- [ ] Fiocchi di patate istantanei
+### Zuccheri
+- [ ]  Zucchero semolato
+- [ ] Zucchero di canna
+- [ ] Miele Acacia
+### Frutta secca
+- [ ] Burro d'arachidi
+- [ ] Tahini
+- [ ] Sesamo
+- [ ] Semi di zucca
+- [ ] Nocciole
+- [ ] Noci
+- [ ] Uva sultanina
+- [ ] Prugne essiccate
+### Sott'oli e sott'aceti
+- [ ] Alici sott'olio
+- [ ] Tonno/Sgombro
+- [ ] Cetriolini
+- [ ] Legumi cotti
+### Salse piccanti
+- [ ] Sriracha
+- [ ] Gochujiang
+- [ ] Tabasco jalapeno
+### Latticini
+- [ ] Burro
+- [ ] Yogurt greco
+- [ ] Parmigiano
+- [ ] Pecorino
+- [ ] Provolone
+- [ ] Mozzarella da pizza
+- [ ] 'Nduja
+- [ ] Pancetta
+### Oli
+- [ ] Olio evo
+- [ ] Olio di semi di girasole
+- [ ] Olio di coco
+- [ ] Olio di Sesamo tostato
+- [ ] Aceto di riso
+- [ ] Aceto di mele
+- [ ] Aceto di vino
+- [ ] Aceto di alcool
+- [ ] 
