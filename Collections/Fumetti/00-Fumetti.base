@@ -1,0 +1,24 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Collections/Fumetti")
+    order:
+      - title
+      - authors
+      - image
+    sort:
+      - property: authors
+        direction: ASC
+    columnSize:
+      note.title: 468
+  - type: cards
+    name: View
+  - type: cards
+    name: View 2
+    filters:
+      and:
+        - file.inFolder("Collections/Fumetti")
+        - "!genres.isEmpty()"
+    image: note.image

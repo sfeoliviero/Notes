@@ -1,0 +1,20 @@
+filters:
+  and:
+    - file.hasTag("📚Book")
+    - file.inFolder("Collections/Books")
+views:
+  - type: table
+    name: Table
+    order:
+      - cover
+      - author
+      - category
+      - isbn
+      - title
+      - file.name
+    sort:
+      - property: author
+        direction: ASC
+  - type: cards
+    name: View
+    image: note.cover
