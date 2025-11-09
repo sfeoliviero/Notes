@@ -1,5 +1,9 @@
 {
   "defaultViewMode": "preview",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Inbox"
+  "newFileFolderPath": "Inbox",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Assets",
+  "promptDelete": false,
+  "vimMode": true
 }

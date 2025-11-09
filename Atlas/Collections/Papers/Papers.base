@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasProperty("paper id")
+    order:
+      - file.name
+      - authors
+      - paper id
+      - publication date
+      - url
+    sort:
+      - property: title
+        direction: ASC
+    columnSize:
+      file.name: 454
+      note.authors: 253

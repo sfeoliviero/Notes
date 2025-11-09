@@ -6,5 +6,13 @@
   "obsidian-git",
   "datacore",
   "obsidian-latex-suite",
-  "local-backup"
+  "local-backup",
+  "obsidian-book-search-plugin",
+  "table-editor-obsidian",
+  "tldraw",
+  "quickadd",
+  "zotlit",
+  "notebook-navigator",
+  "paper_importer",
+  "pdf-plus"
 ]

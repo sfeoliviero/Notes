@@ -1,4 +1,7 @@
 {
   "cssTheme": "Baseline",
-  "accentColor": "#3459a2"
+  "accentColor": "#3459a2",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": true
 }

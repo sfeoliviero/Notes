@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Atlas/Collections/Clippings")
+    order:
+      - file.name
+      - tags
